@@ -1,0 +1,12 @@
+packages:
+  - "bundlers/*"
+  - "cli"
+  - "config"
+  - "core"
+  - "docs"
+  - "e2e"
+  - "ethers"
+  - "examples/*"
+  - "ts-plugin"
+  - "tsconfig"
+
